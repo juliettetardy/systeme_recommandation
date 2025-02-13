@@ -1,0 +1,2 @@
+Pour les étiquettes : IA MobileNet (pas lourd pour utiliser sur notre projet)
+Il faut au moins 5 étiquettes
