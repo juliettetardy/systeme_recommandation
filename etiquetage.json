@@ -39,7 +39,7 @@
         "orientation": "Portrait",
         "resolution": "872x1024",
         "iso": null,
-        "Categorie": "Chat"
+        "Categorie": "Chien"
     },
     {
         "nom_image": "Adult%20Glen%20of%20Imaal%20terrier.jpg",
@@ -193,7 +193,7 @@
         "orientation": "Paysage",
         "resolution": "3677x3000",
         "iso": 100,
-        "Categorie": "Chien"
+        "Categorie": "Chat"
     },
     {
         "nom_image": "CertosinoFemmina.JPG",
@@ -228,7 +228,7 @@
         "orientation": "Paysage",
         "resolution": "850x808",
         "iso": null,
-        "Categorie": "Unknown"
+        "Categorie": "Chien"
     },
     {
         "nom_image": "Coton%20de%20Tular%202.jpg",
@@ -284,7 +284,7 @@
         "orientation": "Paysage",
         "resolution": "1024x680",
         "iso": null,
-        "Categorie": "Chat"
+        "Categorie": "Chien"
     },
     {
         "nom_image": "Duitse%20staande%20korthaar%2010-10-1.jpg",
@@ -536,7 +536,7 @@
         "orientation": "Paysage",
         "resolution": "738x492",
         "iso": null,
-        "Categorie": "Chien"
+        "Categorie": "Unknown"
     },
     {
         "nom_image": "Male%20Burmilla%20cat.jpeg",
