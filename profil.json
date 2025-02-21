@@ -1,144 +1,164 @@
 {
     "data": [
         [
-            "PolishScenthound-ChPl-NEMROD-KlusujacaSfora-wl.GrzegorzWeron.jpg",
-            "Paysage",
-            "1362x1049",
-            null,
-            "Chien"
-        ],
-        [
-            "Racib%C3%B3rz%202007%20082.jpg",
-            "Paysage",
-            "3456x2304",
-            200,
-            "Chien"
-        ],
-        [
-            "Don%20sphynx.jpg",
-            "Paysage",
-            "1024x680",
-            null,
-            "Chien"
-        ],
-        [
-            "Jamthlnd.jpg",
-            "Paysage",
-            "199x182",
-            null,
-            "Chien"
-        ],
-        [
-            "Swissy-2009-11-02.jpg",
-            "Paysage",
-            "2127x1398",
-            null,
-            "Chien"
-        ],
-        [
-            "Ma%C5%82y%20go%C5%84czy%20gasko%C5%84ski%20Cita%20z%20Beckova%20Cb5.jpg",
-            "Paysage",
-            "738x492",
-            null,
-            "Unknown"
-        ],
-        [
-            "Rampurgreyhound.jpg",
-            "Paysage",
-            "350x277",
-            null,
-            "Chien"
-        ],
-        [
-            "Cymric%20-%20Norwegian%20forest%20cat%20presentation%20show%20Kotka%202009-02-01%20IMG%200687.JPG",
-            "Portrait",
-            "718x755",
-            3200,
-            "Chat"
-        ],
-        [
             "LUPO%20ITALIANO%20-%20PALIO%20DI%20CENEDA%202018%2015.png",
             "Portrait",
             "701x909",
             null,
-            "Chien"
+            "Chien",
+            true
         ],
         [
-            "%D0%A4%D0%BE%D1%82%D0%BE%20%D0%BA%D1%83%D0%BD%D0%BE%D0%B2.jpg",
+            "Volpino04.jpg",
             "Paysage",
-            "2126x1417",
+            "280x222",
+            null,
+            "Chien",
+            false
+        ],
+        [
+            "Estrela%20Mountain%20Dog%206%20month%20old%20male.jpg",
+            "Paysage",
+            "736x541",
+            null,
+            "Chien",
+            true
+        ],
+        [
+            "Cat%20Sphynx.%20img%20025.jpg",
+            "Paysage",
+            "3677x3000",
             100,
-            "Chat"
+            "Chat",
+            false
         ],
         [
-            "Peterbald.jpg",
-            "Portrait",
-            "190x300",
-            null,
-            "Chat"
-        ],
-        [
-            "Dog%20Hovavart.jpg",
-            "Portrait",
-            "308x388",
-            null,
-            "Chien"
-        ],
-        [
-            "SC%20Alizarin%20Animal%20Beat%20SIB%20a%2023.jpg",
-            "Portrait",
-            "830x1199",
-            3200,
-            "Chat"
-        ],
-        [
-            "LowchenFemale.jpg",
+            "Kishu.jpg",
             "Paysage",
-            "600x402",
+            "240x159",
+            null,
+            "Chien",
+            false
+        ],
+        [
+            "Irsika.jpg",
+            "Portrait",
+            "750x931",
             400,
-            "Chien"
+            "Chien",
+            true
         ],
         [
-            "Orrvilas%20enska%20w800px.jpg",
+            "Grupp%209%2C%20LHASA%20APSO%2C%20DK%20JV-13%20DK%20V-14%20DK%20V-15%20NO%20UCH%20NO%20V-15%20SE%20UCH%20Chic%20Choix%20Some%20Like%20It%20Chic%20%2824014621720%29.jpg",
             "Paysage",
-            "800x642",
-            null,
-            "Chien"
+            "1656x1104",
+            200,
+            "Chien",
+            false
         ],
         [
-            "MVP%20Nitra%202004%20%288%29.jpg",
+            "Australian%20Mist.jpg",
+            "Portrait",
+            "870x885",
+            null,
+            "Chat",
+            false
+        ],
+        [
+            "Khaomanee%20cat.jpg",
+            "Portrait",
+            "3024x4032",
+            100,
+            "Chat",
+            false
+        ],
+        [
+            "Engelse%20setter%20pup.JPG",
             "Paysage",
-            "412x244",
+            "1600x1200",
             null,
-            "Chien"
+            "Chien",
+            false
         ],
         [
-            "Devon%20Rex%20Cassini.jpeg",
+            "Noorse-boskat%20wikipedia%201.JPG",
             "Portrait",
-            "1363x2048",
+            "480x640",
             null,
-            "Chat"
-        ],
-        [
-            "Dobermann%20Father-and-son.jpg",
-            "Portrait",
-            "409x493",
-            null,
-            "Chien"
+            "Chat",
+            false
         ],
         [
             "%282%29%20Isha%20female%20rajapalayam.jpg",
             "Paysage",
             "1573x1225",
             64,
-            "Chien"
+            "Chien",
+            false
+        ],
+        [
+            "Ratonero%20valenciano%20dunkel.jpg",
+            "Paysage",
+            "789x597",
+            null,
+            "Chien",
+            false
+        ],
+        [
+            "Bex%20Arabian%20Mau.jpg",
+            "Paysage",
+            "720x480",
+            null,
+            "Chat",
+            false
+        ],
+        [
+            "Hannoverscher%20Schweisshund.jpg",
+            "Paysage",
+            "800x618",
+            null,
+            "Chien",
+            false
+        ],
+        [
+            "AmericanCockerSpaniel%20wb.jpg",
+            "Carr\u00e9",
+            "569x569",
+            null,
+            "Chien",
+            true
         ],
         [
             "Male%20Burmilla%20cat.jpeg",
             "Paysage",
             "471x423",
             null,
-            "Chat"
+            "Chat",
+            true
+        ],
+        [
+            "Dog%20Hovavart.jpg",
+            "Portrait",
+            "308x388",
+            null,
+            "Chien",
+            true
+        ],
+        [
+            "Paintedcats%20Red%20Star%20standing.jpg",
+            "Portrait",
+            "1200x1541",
+            null,
+            "Chat",
+            false
+        ],
+        [
+            "Norwegian%20Hygenhound.jpg",
+            "Paysage",
+            "2000x1500",
+            null,
+            "Chien",
+            true
         ]
     ],
     "result": [
@@ -150,9 +170,6 @@
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
-        "NotFavorite",
-        "Favorite",
-        "NotFavorite",
         "Favorite",
         "NotFavorite",
         "NotFavorite",
@@ -161,6 +178,9 @@
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
-        "Favorite"
+        "NotFavorite",
+        "Favorite",
+        "Favorite",
+        "NotFavorite"
     ]
 }
