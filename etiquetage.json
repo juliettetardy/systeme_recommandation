@@ -3,8 +3,7 @@
         "nom_image": "%282%29%20Isha%20female%20rajapalayam.jpg",
         "orientation": "Paysage",
         "resolution": "1573x1225",
-        "iso": 64,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -12,8 +11,7 @@
         "nom_image": "%D0%A4%D0%BE%D1%82%D0%BE%20%D0%BA%D1%83%D0%BD%D0%BE%D0%B2.jpg",
         "orientation": "Paysage",
         "resolution": "2126x1417",
-        "iso": 100,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -21,8 +19,7 @@
         "nom_image": "09057110%20Jura%20Laufhund.jpg",
         "orientation": "Paysage",
         "resolution": "800x600",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -30,8 +27,7 @@
         "nom_image": "618736210a13.jpg",
         "orientation": "Paysage",
         "resolution": "550x526",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -39,8 +35,7 @@
         "nom_image": "8-month-old%20male%20Lykoi.jpg",
         "orientation": "Portrait",
         "resolution": "505x666",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -48,8 +43,7 @@
         "nom_image": "Abessinierkater1.jpg",
         "orientation": "Portrait",
         "resolution": "872x1024",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -57,8 +51,7 @@
         "nom_image": "Adult%20Glen%20of%20Imaal%20terrier.jpg",
         "orientation": "Carré",
         "resolution": "1024x1024",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -66,8 +59,7 @@
         "nom_image": "Aegean%20Island%20Cat.jpg",
         "orientation": "Portrait",
         "resolution": "699x859",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -75,8 +67,7 @@
         "nom_image": "Akbash%20Dog%20in%20CA.jpg",
         "orientation": "Paysage",
         "resolution": "4304x2852",
-        "iso": 400,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -84,8 +75,7 @@
         "nom_image": "American%20bobtail%202.jpg",
         "orientation": "Portrait",
         "resolution": "988x1237",
-        "iso": 400,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -93,8 +83,7 @@
         "nom_image": "American%20curl%202.jpg",
         "orientation": "Paysage",
         "resolution": "1268x904",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -102,8 +91,7 @@
         "nom_image": "American%20Wirehair%20-%20CFF%20cat%20show%20Heinola%202008-05-04%20IMG%208721.JPG",
         "orientation": "Paysage",
         "resolution": "802x798",
-        "iso": 1600,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -111,8 +99,7 @@
         "nom_image": "AmericanCockerSpaniel%20wb.jpg",
         "orientation": "Carré",
         "resolution": "569x569",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": true
     },
@@ -120,8 +107,7 @@
         "nom_image": "Armenian%20Gampr%2001.jpg",
         "orientation": "Portrait",
         "resolution": "382x510",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -129,8 +115,7 @@
         "nom_image": "Australian%20Mist.jpg",
         "orientation": "Portrait",
         "resolution": "870x885",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -138,8 +123,7 @@
         "nom_image": "BebopsLilacPrince.JPG",
         "orientation": "Portrait",
         "resolution": "245x283",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -147,8 +131,7 @@
         "nom_image": "Bergamasco%20600.jpg",
         "orientation": "Carré",
         "resolution": "600x600",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -156,17 +139,15 @@
         "nom_image": "Betty%20Verdure.Photo%20Ph.BRIZARD.JPG",
         "orientation": "Paysage",
         "resolution": "1017x832",
-        "iso": 125,
-        "prediction": "Unknown",
-        "nature": false,
+        "animal": "Unknown",
+        "nature": true,
         "luminosité": false
     },
     {
         "nom_image": "Bex%20Arabian%20Mau.jpg",
         "orientation": "Paysage",
         "resolution": "720x480",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -174,8 +155,7 @@
         "nom_image": "BIR%20Grupp%207-%20BRACCO%20ITALIANO%2C%20Nuits%20Di%20Montemassi%20%2823866391829%29.jpg",
         "orientation": "Paysage",
         "resolution": "1656x1104",
-        "iso": 200,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -183,8 +163,7 @@
         "nom_image": "Birman%20red%20lynx%20point%2002.jpg",
         "orientation": "Paysage",
         "resolution": "1000x696",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": true
     },
@@ -192,8 +171,7 @@
         "nom_image": "Bissel%203.jpg",
         "orientation": "Paysage",
         "resolution": "6000x4000",
-        "iso": 900,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -201,8 +179,7 @@
         "nom_image": "BLH%20cat%20transparent.png",
         "orientation": "Portrait",
         "resolution": "763x764",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -210,8 +187,7 @@
         "nom_image": "Bodeguero%20young.jpg",
         "orientation": "Portrait",
         "resolution": "1600x2005",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -219,8 +195,7 @@
         "nom_image": "Bombay%20Katze%20Ebene%20of%20Blue%20Sinfonie.JPG",
         "orientation": "Paysage",
         "resolution": "1188x792",
-        "iso": 400,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -228,8 +203,7 @@
         "nom_image": "Bullterier%20089%20LM.jpg",
         "orientation": "Paysage",
         "resolution": "2228x1988",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -237,8 +211,7 @@
         "nom_image": "Cao%20de%20castro%20laboreiro.jpg",
         "orientation": "Paysage",
         "resolution": "300x278",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -246,8 +219,7 @@
         "nom_image": "Cat%20Sphynx.%20img%20025.jpg",
         "orientation": "Paysage",
         "resolution": "3677x3000",
-        "iso": 100,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -255,8 +227,7 @@
         "nom_image": "CertosinoFemmina.JPG",
         "orientation": "Portrait",
         "resolution": "1704x2272",
-        "iso": 400,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -264,8 +235,7 @@
         "nom_image": "Chart%20%C5%9Brodkowoazjatycki%20Zeila.jpg",
         "orientation": "Paysage",
         "resolution": "500x470",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -273,8 +243,7 @@
         "nom_image": "Chizhik%20Cat%20%28cropped%29.jpg",
         "orientation": "Portrait",
         "resolution": "2312x3479",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": true
     },
@@ -282,8 +251,7 @@
         "nom_image": "Chocolate%20Persian.jpg",
         "orientation": "Portrait",
         "resolution": "1984x2588",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -291,8 +259,7 @@
         "nom_image": "Cirneco%20dell%20Etna%20611.jpg",
         "orientation": "Paysage",
         "resolution": "850x808",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -300,8 +267,7 @@
         "nom_image": "Coton%20de%20Tular%202.jpg",
         "orientation": "Paysage",
         "resolution": "680x508",
-        "iso": 200,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -309,8 +275,7 @@
         "nom_image": "Cymric%20-%20Norwegian%20forest%20cat%20presentation%20show%20Kotka%202009-02-01%20IMG%200687.JPG",
         "orientation": "Portrait",
         "resolution": "718x755",
-        "iso": 3200,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -318,8 +283,7 @@
         "nom_image": "Dandie%20Dinmont%20Terrier%20600.jpg",
         "orientation": "Paysage",
         "resolution": "600x427",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -327,8 +291,7 @@
         "nom_image": "Devon%20Rex%20Cassini.jpeg",
         "orientation": "Portrait",
         "resolution": "1363x2048",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": true
     },
@@ -336,8 +299,7 @@
         "nom_image": "Dobermann%20Father-and-son.jpg",
         "orientation": "Portrait",
         "resolution": "409x493",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -345,8 +307,7 @@
         "nom_image": "Dog%20Bullmastiff%20600.jpg",
         "orientation": "Paysage",
         "resolution": "600x576",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -354,8 +315,7 @@
         "nom_image": "Dog%20Hovavart.jpg",
         "orientation": "Portrait",
         "resolution": "308x388",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": true
     },
@@ -363,8 +323,7 @@
         "nom_image": "Don%20sphynx.jpg",
         "orientation": "Paysage",
         "resolution": "1024x680",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -372,8 +331,7 @@
         "nom_image": "Duitse%20staande%20korthaar%2010-10-1.jpg",
         "orientation": "Portrait",
         "resolution": "332x500",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -381,8 +339,7 @@
         "nom_image": "Engelse%20setter%20pup.JPG",
         "orientation": "Paysage",
         "resolution": "1600x1200",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -390,8 +347,7 @@
         "nom_image": "Epagneul%20Breton.jpg",
         "orientation": "Paysage",
         "resolution": "1538x1126",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -399,8 +355,7 @@
         "nom_image": "Epagneul%20picard%20685.jpg",
         "orientation": "Paysage",
         "resolution": "1818x1656",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -408,8 +363,7 @@
         "nom_image": "Estrela%20Mountain%20Dog%206%20month%20old%20male.jpg",
         "orientation": "Paysage",
         "resolution": "736x541",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -417,8 +371,7 @@
         "nom_image": "European-cat%20show%20Helsinki%202008.JPG",
         "orientation": "Paysage",
         "resolution": "1014x630",
-        "iso": 1600,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -426,8 +379,7 @@
         "nom_image": "Gato%20pelo%20curto%20brasileiro.JPG",
         "orientation": "Portrait",
         "resolution": "480x640",
-        "iso": 50,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -435,8 +387,7 @@
         "nom_image": "Gato%20Ragdoll%20BreedingCat.jpg",
         "orientation": "Paysage",
         "resolution": "1280x1011",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -444,8 +395,7 @@
         "nom_image": "German%20rex%20harry%20%28cropped%29.jpg",
         "orientation": "Paysage",
         "resolution": "535x431",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": false
     },
@@ -453,8 +403,7 @@
         "nom_image": "Ghislaine%206028.jpg",
         "orientation": "Paysage",
         "resolution": "729x486",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -462,8 +411,7 @@
         "nom_image": "Grupp%209%2C%20LHASA%20APSO%2C%20DK%20JV-13%20DK%20V-14%20DK%20V-15%20NO%20UCH%20NO%20V-15%20SE%20UCH%20Chic%20Choix%20Some%20Like%20It%20Chic%20%2824014621720%29.jpg",
         "orientation": "Paysage",
         "resolution": "1656x1104",
-        "iso": 200,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -471,8 +419,7 @@
         "nom_image": "Hannoverscher%20Schweisshund.jpg",
         "orientation": "Paysage",
         "resolution": "800x618",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -480,8 +427,7 @@
         "nom_image": "Harrier%20tricolour.jpg",
         "orientation": "Paysage",
         "resolution": "540x500",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -489,8 +435,7 @@
         "nom_image": "Havana%20Brown%20-%20choco.jpg",
         "orientation": "Portrait",
         "resolution": "682x791",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -498,8 +443,7 @@
         "nom_image": "Image%20of%20Kai%20%28dog%29.jpg",
         "orientation": "Portrait",
         "resolution": "345x360",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -507,8 +451,7 @@
         "nom_image": "Irsika.jpg",
         "orientation": "Portrait",
         "resolution": "750x931",
-        "iso": 400,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": true
     },
@@ -516,8 +459,7 @@
         "nom_image": "Istrian%20hound2.jpg",
         "orientation": "Paysage",
         "resolution": "700x417",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -525,8 +467,7 @@
         "nom_image": "Jack%20Russell%20Terrier%201.jpg",
         "orientation": "Portrait",
         "resolution": "2091x3136",
-        "iso": 400,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -534,8 +475,7 @@
         "nom_image": "Jamthlnd.jpg",
         "orientation": "Paysage",
         "resolution": "199x182",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -543,8 +483,7 @@
         "nom_image": "Japanese%20Chin%20adult.jpg",
         "orientation": "Paysage",
         "resolution": "300x292",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -552,8 +491,7 @@
         "nom_image": "JapaneseBobtailBlueEyedMi-ke.JPG",
         "orientation": "Paysage",
         "resolution": "650x465",
-        "iso": 200,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -561,8 +499,7 @@
         "nom_image": "JapaneseSpitzPhoto1%20-%20hiro.jpg",
         "orientation": "Paysage",
         "resolution": "300x268",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -570,8 +507,7 @@
         "nom_image": "Javanese%20cat.jpg",
         "orientation": "Portrait",
         "resolution": "400x533",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -579,8 +515,7 @@
         "nom_image": "Jewelkatz%20Romeo%20Of%20Stalker-Bars.jpg",
         "orientation": "Paysage",
         "resolution": "567x425",
-        "iso": 100,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -588,8 +523,7 @@
         "nom_image": "Khaomanee%20cat.jpg",
         "orientation": "Portrait",
         "resolution": "3024x4032",
-        "iso": 100,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -597,8 +531,7 @@
         "nom_image": "Kinkalow1.JPG",
         "orientation": "Portrait",
         "resolution": "3456x5184",
-        "iso": 800,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -606,8 +539,7 @@
         "nom_image": "Kishu.jpg",
         "orientation": "Paysage",
         "resolution": "240x159",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -615,8 +547,7 @@
         "nom_image": "Kitten%20Alpha%20MMB%202021-08-22.jpg",
         "orientation": "Paysage",
         "resolution": "4992x3540",
-        "iso": 1600,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -624,8 +555,7 @@
         "nom_image": "Kleiner%20Munsterlander%20edit.jpg",
         "orientation": "Paysage",
         "resolution": "795x656",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -633,8 +563,7 @@
         "nom_image": "KOR%201149.jpg",
         "orientation": "Paysage",
         "resolution": "1218x985",
-        "iso": 2500,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -642,8 +571,7 @@
         "nom_image": "Lakeland%20Terrier.jpg",
         "orientation": "Paysage",
         "resolution": "600x509",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -651,8 +579,7 @@
         "nom_image": "Laperm%20LH%20blacktortie%20white.jpg",
         "orientation": "Paysage",
         "resolution": "500x374",
-        "iso": 100,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": true
     },
@@ -660,8 +587,7 @@
         "nom_image": "Lapskvallhund.jpg",
         "orientation": "Paysage",
         "resolution": "800x558",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -669,8 +595,7 @@
         "nom_image": "LowchenFemale.jpg",
         "orientation": "Paysage",
         "resolution": "600x402",
-        "iso": 400,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -678,8 +603,7 @@
         "nom_image": "LUPO%20ITALIANO%20-%20PALIO%20DI%20CENEDA%202018%2015.png",
         "orientation": "Portrait",
         "resolution": "701x909",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -687,8 +611,7 @@
         "nom_image": "Ma%C5%82y%20go%C5%84czy%20gasko%C5%84ski%20Cita%20z%20Beckova%20Cb5.jpg",
         "orientation": "Paysage",
         "resolution": "738x492",
-        "iso": null,
-        "prediction": "Unknown",
+        "animal": "Unknown",
         "nature": true,
         "luminosité": false
     },
@@ -696,8 +619,7 @@
         "nom_image": "Male%20Burmilla%20cat.jpeg",
         "orientation": "Paysage",
         "resolution": "471x423",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": true
     },
@@ -705,8 +627,7 @@
         "nom_image": "Manx%20cat%20by%20Karen%20Weaver.jpg",
         "orientation": "Portrait",
         "resolution": "205x211",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -714,8 +635,7 @@
         "nom_image": "Mau%20Egytien.jpg",
         "orientation": "Portrait",
         "resolution": "702x830",
-        "iso": 500,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -723,8 +643,7 @@
         "nom_image": "MVP%20Nitra%202004%20%288%29.jpg",
         "orientation": "Paysage",
         "resolution": "412x244",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -732,8 +651,7 @@
         "nom_image": "Mystica%20from%20British%20Empire%20Cattery.jpg",
         "orientation": "Paysage",
         "resolution": "2482x2431",
-        "iso": 500,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -741,8 +659,7 @@
         "nom_image": "Nebelung%20Male%2C%20Aleksandr%20van%20Song%20de%20Chine.JPG",
         "orientation": "Paysage",
         "resolution": "567x377",
-        "iso": 400,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -750,8 +667,7 @@
         "nom_image": "NevaMasqueradeFiona%20%28cropped%29.jpg",
         "orientation": "Paysage",
         "resolution": "2671x2013",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -759,8 +675,7 @@
         "nom_image": "Noorse-boskat%20wikipedia%201.JPG",
         "orientation": "Portrait",
         "resolution": "480x640",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -768,8 +683,7 @@
         "nom_image": "Norwegian%20Hygenhound.jpg",
         "orientation": "Paysage",
         "resolution": "2000x1500",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -777,8 +691,7 @@
         "nom_image": "Ocicat%20Fond%20Blanc.jpg",
         "orientation": "Paysage",
         "resolution": "410x363",
-        "iso": 1600,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -786,8 +699,7 @@
         "nom_image": "Ojos%20Azules%20from%20the%20USA.jpg",
         "orientation": "Portrait",
         "resolution": "400x542",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -795,8 +707,7 @@
         "nom_image": "Olde%20English%20Bulldogge%20Crop.jpg",
         "orientation": "Paysage",
         "resolution": "740x488",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -804,8 +715,7 @@
         "nom_image": "Orientalshorthairs2.jpg",
         "orientation": "Paysage",
         "resolution": "657x580",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -813,8 +723,7 @@
         "nom_image": "Orrvilas%20enska%20w800px.jpg",
         "orientation": "Paysage",
         "resolution": "800x642",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -822,8 +731,7 @@
         "nom_image": "Paintedcats%20Red%20Star%20standing.jpg",
         "orientation": "Portrait",
         "resolution": "1200x1541",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -831,8 +739,7 @@
         "nom_image": "Pantanal%20Pixie-Bob%202.jpg",
         "orientation": "Paysage",
         "resolution": "1280x877",
-        "iso": 125,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -840,8 +747,7 @@
         "nom_image": "Papillon-dog-black.jpg",
         "orientation": "Paysage",
         "resolution": "800x600",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -849,8 +755,7 @@
         "nom_image": "Pastor%20aleman%20a.jpg",
         "orientation": "Paysage",
         "resolution": "1000x800",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -858,8 +763,7 @@
         "nom_image": "Peterbald.jpg",
         "orientation": "Portrait",
         "resolution": "190x300",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -867,8 +771,7 @@
         "nom_image": "Poitevin%20Hound.jpg",
         "orientation": "Paysage",
         "resolution": "1800x1785",
-        "iso": 400,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -876,8 +779,7 @@
         "nom_image": "PolishHound-ChPl-BARD-zKicibirza-wl.AnnaWalentynowicz.JPG",
         "orientation": "Paysage",
         "resolution": "1597x1155",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": true
     },
@@ -885,8 +787,7 @@
         "nom_image": "PolishScenthound-ChPl-NEMROD-KlusujacaSfora-wl.GrzegorzWeron.jpg",
         "orientation": "Paysage",
         "resolution": "1362x1049",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": true
     },
@@ -894,8 +795,7 @@
         "nom_image": "Portuguese%20pointer%2011yo.jpg",
         "orientation": "Paysage",
         "resolution": "1632x1224",
-        "iso": 100,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -903,8 +803,7 @@
         "nom_image": "Purple-scottish-fold.png",
         "orientation": "Portrait",
         "resolution": "642x701",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -912,8 +811,7 @@
         "nom_image": "Racib%C3%B3rz%202007%20082.jpg",
         "orientation": "Paysage",
         "resolution": "3456x2304",
-        "iso": 200,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -921,8 +819,7 @@
         "nom_image": "Rampurgreyhound.jpg",
         "orientation": "Paysage",
         "resolution": "350x277",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     },
@@ -930,8 +827,7 @@
         "nom_image": "Rastreadora%20Brasileira%20Gaya.jpg",
         "orientation": "Paysage",
         "resolution": "3648x2736",
-        "iso": 800,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": true,
         "luminosité": false
     },
@@ -939,8 +835,7 @@
         "nom_image": "Ratonero%20valenciano%20dunkel.jpg",
         "orientation": "Paysage",
         "resolution": "789x597",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -948,8 +843,7 @@
         "nom_image": "Ruskis%20dimka%203%20%28cropped%29.jpg",
         "orientation": "Portrait",
         "resolution": "346x549",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -957,8 +851,7 @@
         "nom_image": "SC%20Alizarin%20Animal%20Beat%20SIB%20a%2023.jpg",
         "orientation": "Portrait",
         "resolution": "830x1199",
-        "iso": 3200,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -966,8 +859,7 @@
         "nom_image": "Selkirk%20Longhair.jpg",
         "orientation": "Paysage",
         "resolution": "1160x972",
-        "iso": 2000,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -975,8 +867,7 @@
         "nom_image": "Serengetimalecat.jpg",
         "orientation": "Paysage",
         "resolution": "1157x900",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": true,
         "luminosité": true
     },
@@ -984,8 +875,7 @@
         "nom_image": "Siam%20lilacpoint.jpg",
         "orientation": "Portrait",
         "resolution": "982x1000",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -993,8 +883,7 @@
         "nom_image": "Standard%20Alaskan%20Klee%20Kai.jpg",
         "orientation": "Portrait",
         "resolution": "518x640",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -1002,8 +891,7 @@
         "nom_image": "Star%20Spangled%20Cat.jpg",
         "orientation": "Paysage",
         "resolution": "450x306",
-        "iso": null,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": true
     },
@@ -1011,8 +899,7 @@
         "nom_image": "SuphalakAyodia.jpg",
         "orientation": "Paysage",
         "resolution": "3622x2587",
-        "iso": 1600,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -1020,8 +907,7 @@
         "nom_image": "Swissy-2009-11-02.jpg",
         "orientation": "Paysage",
         "resolution": "2127x1398",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": false
     },
@@ -1029,8 +915,7 @@
         "nom_image": "TOB%20Velena-Kutc%20%2815818956518%29%20%28cropped%29.jpg",
         "orientation": "Portrait",
         "resolution": "2005x2796",
-        "iso": 50,
-        "prediction": "Chat",
+        "animal": "Chat",
         "nature": false,
         "luminosité": false
     },
@@ -1038,8 +923,7 @@
         "nom_image": "Volpino04.jpg",
         "orientation": "Paysage",
         "resolution": "280x222",
-        "iso": null,
-        "prediction": "Chien",
+        "animal": "Chien",
         "nature": false,
         "luminosité": true
     }
