@@ -1,6 +1,6 @@
 [
     {
-        "nom_image": "%282%29%20Isha%20female%20rajapalayam.jpg",
+        "nom_image": "1.jpg",
         "orientation": "Paysage",
         "resolution": "1573x1225",
         "animal": "Chien",
@@ -8,71 +8,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "%D0%A4%D0%BE%D1%82%D0%BE%20%D0%BA%D1%83%D0%BD%D0%BE%D0%B2.jpg",
-        "orientation": "Paysage",
-        "resolution": "2126x1417",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "09057110%20Jura%20Laufhund.jpg",
-        "orientation": "Paysage",
-        "resolution": "800x600",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "618736210a13.jpg",
-        "orientation": "Paysage",
-        "resolution": "550x526",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "8-month-old%20male%20Lykoi.jpg",
-        "orientation": "Portrait",
-        "resolution": "505x666",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Abessinierkater1.jpg",
-        "orientation": "Portrait",
-        "resolution": "872x1024",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Adult%20Glen%20of%20Imaal%20terrier.jpg",
-        "orientation": "Carré",
-        "resolution": "1024x1024",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Aegean%20Island%20Cat.jpg",
-        "orientation": "Portrait",
-        "resolution": "699x859",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Akbash%20Dog%20in%20CA.jpg",
-        "orientation": "Paysage",
-        "resolution": "4304x2852",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "American%20bobtail%202.jpg",
+        "nom_image": "10.jpg",
         "orientation": "Portrait",
         "resolution": "988x1237",
         "animal": "Chat",
@@ -80,719 +16,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "American%20curl%202.jpg",
-        "orientation": "Paysage",
-        "resolution": "1268x904",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "American%20Wirehair%20-%20CFF%20cat%20show%20Heinola%202008-05-04%20IMG%208721.JPG",
-        "orientation": "Paysage",
-        "resolution": "802x798",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "AmericanCockerSpaniel%20wb.jpg",
-        "orientation": "Carré",
-        "resolution": "569x569",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Armenian%20Gampr%2001.jpg",
-        "orientation": "Portrait",
-        "resolution": "382x510",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Australian%20Mist.jpg",
-        "orientation": "Portrait",
-        "resolution": "870x885",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "BebopsLilacPrince.JPG",
-        "orientation": "Portrait",
-        "resolution": "245x283",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Bergamasco%20600.jpg",
-        "orientation": "Carré",
-        "resolution": "600x600",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Betty%20Verdure.Photo%20Ph.BRIZARD.JPG",
-        "orientation": "Paysage",
-        "resolution": "1017x832",
-        "animal": "Unknown",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Bex%20Arabian%20Mau.jpg",
-        "orientation": "Paysage",
-        "resolution": "720x480",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "BIR%20Grupp%207-%20BRACCO%20ITALIANO%2C%20Nuits%20Di%20Montemassi%20%2823866391829%29.jpg",
-        "orientation": "Paysage",
-        "resolution": "1656x1104",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Birman%20red%20lynx%20point%2002.jpg",
-        "orientation": "Paysage",
-        "resolution": "1000x696",
-        "animal": "Chat",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Bissel%203.jpg",
-        "orientation": "Paysage",
-        "resolution": "6000x4000",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "BLH%20cat%20transparent.png",
-        "orientation": "Portrait",
-        "resolution": "763x764",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Bodeguero%20young.jpg",
-        "orientation": "Portrait",
-        "resolution": "1600x2005",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Bombay%20Katze%20Ebene%20of%20Blue%20Sinfonie.JPG",
-        "orientation": "Paysage",
-        "resolution": "1188x792",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Bullterier%20089%20LM.jpg",
-        "orientation": "Paysage",
-        "resolution": "2228x1988",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Cao%20de%20castro%20laboreiro.jpg",
-        "orientation": "Paysage",
-        "resolution": "300x278",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Cat%20Sphynx.%20img%20025.jpg",
-        "orientation": "Paysage",
-        "resolution": "3677x3000",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "CertosinoFemmina.JPG",
-        "orientation": "Portrait",
-        "resolution": "1704x2272",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Chart%20%C5%9Brodkowoazjatycki%20Zeila.jpg",
-        "orientation": "Paysage",
-        "resolution": "500x470",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Chizhik%20Cat%20%28cropped%29.jpg",
-        "orientation": "Portrait",
-        "resolution": "2312x3479",
-        "animal": "Chat",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Chocolate%20Persian.jpg",
-        "orientation": "Portrait",
-        "resolution": "1984x2588",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Cirneco%20dell%20Etna%20611.jpg",
-        "orientation": "Paysage",
-        "resolution": "850x808",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Coton%20de%20Tular%202.jpg",
-        "orientation": "Paysage",
-        "resolution": "680x508",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Cymric%20-%20Norwegian%20forest%20cat%20presentation%20show%20Kotka%202009-02-01%20IMG%200687.JPG",
-        "orientation": "Portrait",
-        "resolution": "718x755",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Dandie%20Dinmont%20Terrier%20600.jpg",
-        "orientation": "Paysage",
-        "resolution": "600x427",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Devon%20Rex%20Cassini.jpeg",
-        "orientation": "Portrait",
-        "resolution": "1363x2048",
-        "animal": "Chat",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Dobermann%20Father-and-son.jpg",
-        "orientation": "Portrait",
-        "resolution": "409x493",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Dog%20Bullmastiff%20600.jpg",
-        "orientation": "Paysage",
-        "resolution": "600x576",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Dog%20Hovavart.jpg",
-        "orientation": "Portrait",
-        "resolution": "308x388",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Don%20sphynx.jpg",
-        "orientation": "Paysage",
-        "resolution": "1024x680",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Duitse%20staande%20korthaar%2010-10-1.jpg",
-        "orientation": "Portrait",
-        "resolution": "332x500",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Engelse%20setter%20pup.JPG",
-        "orientation": "Paysage",
-        "resolution": "1600x1200",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Epagneul%20Breton.jpg",
-        "orientation": "Paysage",
-        "resolution": "1538x1126",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Epagneul%20picard%20685.jpg",
-        "orientation": "Paysage",
-        "resolution": "1818x1656",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Estrela%20Mountain%20Dog%206%20month%20old%20male.jpg",
-        "orientation": "Paysage",
-        "resolution": "736x541",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "European-cat%20show%20Helsinki%202008.JPG",
-        "orientation": "Paysage",
-        "resolution": "1014x630",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Gato%20pelo%20curto%20brasileiro.JPG",
-        "orientation": "Portrait",
-        "resolution": "480x640",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Gato%20Ragdoll%20BreedingCat.jpg",
-        "orientation": "Paysage",
-        "resolution": "1280x1011",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "German%20rex%20harry%20%28cropped%29.jpg",
-        "orientation": "Paysage",
-        "resolution": "535x431",
-        "animal": "Chat",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Ghislaine%206028.jpg",
-        "orientation": "Paysage",
-        "resolution": "729x486",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Grupp%209%2C%20LHASA%20APSO%2C%20DK%20JV-13%20DK%20V-14%20DK%20V-15%20NO%20UCH%20NO%20V-15%20SE%20UCH%20Chic%20Choix%20Some%20Like%20It%20Chic%20%2824014621720%29.jpg",
-        "orientation": "Paysage",
-        "resolution": "1656x1104",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Hannoverscher%20Schweisshund.jpg",
-        "orientation": "Paysage",
-        "resolution": "800x618",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Harrier%20tricolour.jpg",
-        "orientation": "Paysage",
-        "resolution": "540x500",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Havana%20Brown%20-%20choco.jpg",
-        "orientation": "Portrait",
-        "resolution": "682x791",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Image%20of%20Kai%20%28dog%29.jpg",
-        "orientation": "Portrait",
-        "resolution": "345x360",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Irsika.jpg",
-        "orientation": "Portrait",
-        "resolution": "750x931",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Istrian%20hound2.jpg",
-        "orientation": "Paysage",
-        "resolution": "700x417",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Jack%20Russell%20Terrier%201.jpg",
-        "orientation": "Portrait",
-        "resolution": "2091x3136",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Jamthlnd.jpg",
-        "orientation": "Paysage",
-        "resolution": "199x182",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Japanese%20Chin%20adult.jpg",
-        "orientation": "Paysage",
-        "resolution": "300x292",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "JapaneseBobtailBlueEyedMi-ke.JPG",
-        "orientation": "Paysage",
-        "resolution": "650x465",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "JapaneseSpitzPhoto1%20-%20hiro.jpg",
-        "orientation": "Paysage",
-        "resolution": "300x268",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Javanese%20cat.jpg",
-        "orientation": "Portrait",
-        "resolution": "400x533",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Jewelkatz%20Romeo%20Of%20Stalker-Bars.jpg",
-        "orientation": "Paysage",
-        "resolution": "567x425",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Khaomanee%20cat.jpg",
-        "orientation": "Portrait",
-        "resolution": "3024x4032",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Kinkalow1.JPG",
-        "orientation": "Portrait",
-        "resolution": "3456x5184",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Kishu.jpg",
-        "orientation": "Paysage",
-        "resolution": "240x159",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Kitten%20Alpha%20MMB%202021-08-22.jpg",
-        "orientation": "Paysage",
-        "resolution": "4992x3540",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Kleiner%20Munsterlander%20edit.jpg",
-        "orientation": "Paysage",
-        "resolution": "795x656",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "KOR%201149.jpg",
-        "orientation": "Paysage",
-        "resolution": "1218x985",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Lakeland%20Terrier.jpg",
-        "orientation": "Paysage",
-        "resolution": "600x509",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Laperm%20LH%20blacktortie%20white.jpg",
-        "orientation": "Paysage",
-        "resolution": "500x374",
-        "animal": "Chat",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Lapskvallhund.jpg",
-        "orientation": "Paysage",
-        "resolution": "800x558",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "LowchenFemale.jpg",
-        "orientation": "Paysage",
-        "resolution": "600x402",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "LUPO%20ITALIANO%20-%20PALIO%20DI%20CENEDA%202018%2015.png",
-        "orientation": "Portrait",
-        "resolution": "701x909",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Ma%C5%82y%20go%C5%84czy%20gasko%C5%84ski%20Cita%20z%20Beckova%20Cb5.jpg",
-        "orientation": "Paysage",
-        "resolution": "738x492",
-        "animal": "Unknown",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Male%20Burmilla%20cat.jpeg",
-        "orientation": "Paysage",
-        "resolution": "471x423",
-        "animal": "Chat",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Manx%20cat%20by%20Karen%20Weaver.jpg",
-        "orientation": "Portrait",
-        "resolution": "205x211",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Mau%20Egytien.jpg",
-        "orientation": "Portrait",
-        "resolution": "702x830",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "MVP%20Nitra%202004%20%288%29.jpg",
-        "orientation": "Paysage",
-        "resolution": "412x244",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Mystica%20from%20British%20Empire%20Cattery.jpg",
-        "orientation": "Paysage",
-        "resolution": "2482x2431",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Nebelung%20Male%2C%20Aleksandr%20van%20Song%20de%20Chine.JPG",
-        "orientation": "Paysage",
-        "resolution": "567x377",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "NevaMasqueradeFiona%20%28cropped%29.jpg",
-        "orientation": "Paysage",
-        "resolution": "2671x2013",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Noorse-boskat%20wikipedia%201.JPG",
-        "orientation": "Portrait",
-        "resolution": "480x640",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Norwegian%20Hygenhound.jpg",
-        "orientation": "Paysage",
-        "resolution": "2000x1500",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Ocicat%20Fond%20Blanc.jpg",
-        "orientation": "Paysage",
-        "resolution": "410x363",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Ojos%20Azules%20from%20the%20USA.jpg",
-        "orientation": "Portrait",
-        "resolution": "400x542",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Olde%20English%20Bulldogge%20Crop.jpg",
-        "orientation": "Paysage",
-        "resolution": "740x488",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Orientalshorthairs2.jpg",
-        "orientation": "Paysage",
-        "resolution": "657x580",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Orrvilas%20enska%20w800px.jpg",
-        "orientation": "Paysage",
-        "resolution": "800x642",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Paintedcats%20Red%20Star%20standing.jpg",
-        "orientation": "Portrait",
-        "resolution": "1200x1541",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Pantanal%20Pixie-Bob%202.jpg",
-        "orientation": "Paysage",
-        "resolution": "1280x877",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Papillon-dog-black.jpg",
-        "orientation": "Paysage",
-        "resolution": "800x600",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Pastor%20aleman%20a.jpg",
-        "orientation": "Paysage",
-        "resolution": "1000x800",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "Peterbald.jpg",
-        "orientation": "Portrait",
-        "resolution": "190x300",
-        "animal": "Chat",
-        "nature": false,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Poitevin%20Hound.jpg",
-        "orientation": "Paysage",
-        "resolution": "1800x1785",
-        "animal": "Chien",
-        "nature": false,
-        "luminosité": false
-    },
-    {
-        "nom_image": "PolishHound-ChPl-BARD-zKicibirza-wl.AnnaWalentynowicz.JPG",
-        "orientation": "Paysage",
-        "resolution": "1597x1155",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "PolishScenthound-ChPl-NEMROD-KlusujacaSfora-wl.GrzegorzWeron.jpg",
-        "orientation": "Paysage",
-        "resolution": "1362x1049",
-        "animal": "Chien",
-        "nature": true,
-        "luminosité": true
-    },
-    {
-        "nom_image": "Portuguese%20pointer%2011yo.jpg",
+        "nom_image": "100.jpg",
         "orientation": "Paysage",
         "resolution": "1632x1224",
         "animal": "Chien",
@@ -800,7 +24,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "Purple-scottish-fold.png",
+        "nom_image": "101.png",
         "orientation": "Portrait",
         "resolution": "642x701",
         "animal": "Chat",
@@ -808,7 +32,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "Racib%C3%B3rz%202007%20082.jpg",
+        "nom_image": "102.jpg",
         "orientation": "Paysage",
         "resolution": "3456x2304",
         "animal": "Chien",
@@ -816,7 +40,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "Rampurgreyhound.jpg",
+        "nom_image": "103.jpg",
         "orientation": "Paysage",
         "resolution": "350x277",
         "animal": "Chien",
@@ -824,7 +48,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "Rastreadora%20Brasileira%20Gaya.jpg",
+        "nom_image": "104.jpg",
         "orientation": "Paysage",
         "resolution": "3648x2736",
         "animal": "Chien",
@@ -832,7 +56,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "Ratonero%20valenciano%20dunkel.jpg",
+        "nom_image": "105.jpg",
         "orientation": "Paysage",
         "resolution": "789x597",
         "animal": "Chien",
@@ -840,7 +64,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "Ruskis%20dimka%203%20%28cropped%29.jpg",
+        "nom_image": "106.jpg",
         "orientation": "Portrait",
         "resolution": "346x549",
         "animal": "Chat",
@@ -848,7 +72,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "SC%20Alizarin%20Animal%20Beat%20SIB%20a%2023.jpg",
+        "nom_image": "107.jpg",
         "orientation": "Portrait",
         "resolution": "830x1199",
         "animal": "Chat",
@@ -856,7 +80,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "Selkirk%20Longhair.jpg",
+        "nom_image": "108.jpg",
         "orientation": "Paysage",
         "resolution": "1160x972",
         "animal": "Chat",
@@ -864,7 +88,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "Serengetimalecat.jpg",
+        "nom_image": "109.jpg",
         "orientation": "Paysage",
         "resolution": "1157x900",
         "animal": "Chat",
@@ -872,7 +96,15 @@
         "luminosité": true
     },
     {
-        "nom_image": "Siam%20lilacpoint.jpg",
+        "nom_image": "11.jpg",
+        "orientation": "Paysage",
+        "resolution": "1268x904",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "110.jpg",
         "orientation": "Portrait",
         "resolution": "982x1000",
         "animal": "Chat",
@@ -880,7 +112,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "Standard%20Alaskan%20Klee%20Kai.jpg",
+        "nom_image": "111.jpg",
         "orientation": "Portrait",
         "resolution": "518x640",
         "animal": "Chien",
@@ -888,7 +120,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "Star%20Spangled%20Cat.jpg",
+        "nom_image": "112.jpg",
         "orientation": "Paysage",
         "resolution": "450x306",
         "animal": "Chat",
@@ -896,7 +128,7 @@
         "luminosité": true
     },
     {
-        "nom_image": "SuphalakAyodia.jpg",
+        "nom_image": "113.jpg",
         "orientation": "Paysage",
         "resolution": "3622x2587",
         "animal": "Chat",
@@ -904,7 +136,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "Swissy-2009-11-02.jpg",
+        "nom_image": "114.jpg",
         "orientation": "Paysage",
         "resolution": "2127x1398",
         "animal": "Chien",
@@ -912,7 +144,7 @@
         "luminosité": false
     },
     {
-        "nom_image": "TOB%20Velena-Kutc%20%2815818956518%29%20%28cropped%29.jpg",
+        "nom_image": "115.jpg",
         "orientation": "Portrait",
         "resolution": "2005x2796",
         "animal": "Chat",
@@ -920,11 +152,779 @@
         "luminosité": false
     },
     {
-        "nom_image": "Volpino04.jpg",
+        "nom_image": "116.jpg",
         "orientation": "Paysage",
         "resolution": "280x222",
         "animal": "Chien",
         "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "12.JPG",
+        "orientation": "Paysage",
+        "resolution": "802x798",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "13.jpg",
+        "orientation": "Carré",
+        "resolution": "569x569",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "14.jpg",
+        "orientation": "Portrait",
+        "resolution": "382x510",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "15.jpg",
+        "orientation": "Portrait",
+        "resolution": "870x885",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "16.JPG",
+        "orientation": "Portrait",
+        "resolution": "245x283",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "17.jpg",
+        "orientation": "Carré",
+        "resolution": "600x600",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "18.JPG",
+        "orientation": "Paysage",
+        "resolution": "1017x832",
+        "animal": "Unknown",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "19.jpg",
+        "orientation": "Paysage",
+        "resolution": "720x480",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "2.jpg",
+        "orientation": "Paysage",
+        "resolution": "2126x1417",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "20.jpg",
+        "orientation": "Paysage",
+        "resolution": "1656x1104",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "21.jpg",
+        "orientation": "Paysage",
+        "resolution": "1000x696",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "22.jpg",
+        "orientation": "Paysage",
+        "resolution": "6000x4000",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "23.png",
+        "orientation": "Portrait",
+        "resolution": "763x764",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "24.jpg",
+        "orientation": "Portrait",
+        "resolution": "1600x2005",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "25.JPG",
+        "orientation": "Paysage",
+        "resolution": "1188x792",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "26.jpg",
+        "orientation": "Paysage",
+        "resolution": "2228x1988",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "27.jpg",
+        "orientation": "Paysage",
+        "resolution": "300x278",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "28.jpg",
+        "orientation": "Paysage",
+        "resolution": "3677x3000",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "29.JPG",
+        "orientation": "Portrait",
+        "resolution": "1704x2272",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "3.jpg",
+        "orientation": "Paysage",
+        "resolution": "800x600",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "30.jpg",
+        "orientation": "Paysage",
+        "resolution": "500x470",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "31.jpg",
+        "orientation": "Portrait",
+        "resolution": "2312x3479",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "32.jpg",
+        "orientation": "Portrait",
+        "resolution": "1984x2588",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "33.jpg",
+        "orientation": "Paysage",
+        "resolution": "850x808",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "34.jpg",
+        "orientation": "Paysage",
+        "resolution": "680x508",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "35.JPG",
+        "orientation": "Portrait",
+        "resolution": "718x755",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "36.jpg",
+        "orientation": "Paysage",
+        "resolution": "600x427",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "37.jpeg",
+        "orientation": "Portrait",
+        "resolution": "1363x2048",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "38.jpg",
+        "orientation": "Portrait",
+        "resolution": "409x493",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "39.jpg",
+        "orientation": "Paysage",
+        "resolution": "600x576",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "4.jpg",
+        "orientation": "Paysage",
+        "resolution": "550x526",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "40.jpg",
+        "orientation": "Portrait",
+        "resolution": "308x388",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "41.jpg",
+        "orientation": "Paysage",
+        "resolution": "1024x680",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "42.jpg",
+        "orientation": "Portrait",
+        "resolution": "332x500",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "43.JPG",
+        "orientation": "Paysage",
+        "resolution": "1600x1200",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "44.jpg",
+        "orientation": "Paysage",
+        "resolution": "1538x1126",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "45.jpg",
+        "orientation": "Paysage",
+        "resolution": "1818x1656",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "46.jpg",
+        "orientation": "Paysage",
+        "resolution": "736x541",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "47.JPG",
+        "orientation": "Paysage",
+        "resolution": "1014x630",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "48.JPG",
+        "orientation": "Portrait",
+        "resolution": "480x640",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "49.jpg",
+        "orientation": "Paysage",
+        "resolution": "1280x1011",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "5.jpg",
+        "orientation": "Portrait",
+        "resolution": "505x666",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "50.jpg",
+        "orientation": "Paysage",
+        "resolution": "535x431",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "51.jpg",
+        "orientation": "Paysage",
+        "resolution": "729x486",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "52.jpg",
+        "orientation": "Paysage",
+        "resolution": "1656x1104",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "53.jpg",
+        "orientation": "Paysage",
+        "resolution": "800x618",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "54.jpg",
+        "orientation": "Paysage",
+        "resolution": "540x500",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "55.jpg",
+        "orientation": "Portrait",
+        "resolution": "682x791",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "56.jpg",
+        "orientation": "Portrait",
+        "resolution": "345x360",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "57.jpg",
+        "orientation": "Portrait",
+        "resolution": "750x931",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "58.jpg",
+        "orientation": "Paysage",
+        "resolution": "700x417",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "59.jpg",
+        "orientation": "Portrait",
+        "resolution": "2091x3136",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "6.jpg",
+        "orientation": "Portrait",
+        "resolution": "872x1024",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "60.jpg",
+        "orientation": "Paysage",
+        "resolution": "199x182",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "61.jpg",
+        "orientation": "Paysage",
+        "resolution": "300x292",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "62.JPG",
+        "orientation": "Paysage",
+        "resolution": "650x465",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "63.jpg",
+        "orientation": "Paysage",
+        "resolution": "300x268",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "64.jpg",
+        "orientation": "Portrait",
+        "resolution": "400x533",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "65.jpg",
+        "orientation": "Paysage",
+        "resolution": "567x425",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "66.jpg",
+        "orientation": "Portrait",
+        "resolution": "3024x4032",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "67.JPG",
+        "orientation": "Portrait",
+        "resolution": "3456x5184",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "68.jpg",
+        "orientation": "Paysage",
+        "resolution": "240x159",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "69.jpg",
+        "orientation": "Paysage",
+        "resolution": "4992x3540",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "7.jpg",
+        "orientation": "Carré",
+        "resolution": "1024x1024",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "70.jpg",
+        "orientation": "Paysage",
+        "resolution": "795x656",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "71.jpg",
+        "orientation": "Paysage",
+        "resolution": "1218x985",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "72.jpg",
+        "orientation": "Paysage",
+        "resolution": "600x509",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "73.jpg",
+        "orientation": "Paysage",
+        "resolution": "500x374",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "74.jpg",
+        "orientation": "Paysage",
+        "resolution": "800x558",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "75.jpg",
+        "orientation": "Paysage",
+        "resolution": "600x402",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "76.png",
+        "orientation": "Portrait",
+        "resolution": "701x909",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "77.jpg",
+        "orientation": "Paysage",
+        "resolution": "738x492",
+        "animal": "Unknown",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "78.jpeg",
+        "orientation": "Paysage",
+        "resolution": "471x423",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "79.jpg",
+        "orientation": "Portrait",
+        "resolution": "205x211",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "8.jpg",
+        "orientation": "Portrait",
+        "resolution": "699x859",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "80.jpg",
+        "orientation": "Portrait",
+        "resolution": "702x830",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "81.jpg",
+        "orientation": "Paysage",
+        "resolution": "412x244",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "82.jpg",
+        "orientation": "Paysage",
+        "resolution": "2482x2431",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "83.JPG",
+        "orientation": "Paysage",
+        "resolution": "567x377",
+        "animal": "Chat",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "84.jpg",
+        "orientation": "Paysage",
+        "resolution": "2671x2013",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "85.JPG",
+        "orientation": "Portrait",
+        "resolution": "480x640",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "86.jpg",
+        "orientation": "Paysage",
+        "resolution": "2000x1500",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": false
+    },
+    {
+        "nom_image": "87.jpg",
+        "orientation": "Paysage",
+        "resolution": "410x363",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "88.jpg",
+        "orientation": "Portrait",
+        "resolution": "400x542",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "89.jpg",
+        "orientation": "Paysage",
+        "resolution": "740x488",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "9.jpg",
+        "orientation": "Paysage",
+        "resolution": "4304x2852",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "90.jpg",
+        "orientation": "Paysage",
+        "resolution": "657x580",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "91.jpg",
+        "orientation": "Paysage",
+        "resolution": "800x642",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "92.jpg",
+        "orientation": "Portrait",
+        "resolution": "1200x1541",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "93.jpg",
+        "orientation": "Paysage",
+        "resolution": "1280x877",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "94.jpg",
+        "orientation": "Paysage",
+        "resolution": "800x600",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "95.jpg",
+        "orientation": "Paysage",
+        "resolution": "1000x800",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "96.jpg",
+        "orientation": "Portrait",
+        "resolution": "190x300",
+        "animal": "Chat",
+        "nature": false,
+        "luminosité": true
+    },
+    {
+        "nom_image": "97.jpg",
+        "orientation": "Paysage",
+        "resolution": "1800x1785",
+        "animal": "Chien",
+        "nature": false,
+        "luminosité": false
+    },
+    {
+        "nom_image": "98.JPG",
+        "orientation": "Paysage",
+        "resolution": "1597x1155",
+        "animal": "Chien",
+        "nature": true,
+        "luminosité": true
+    },
+    {
+        "nom_image": "99.jpg",
+        "orientation": "Paysage",
+        "resolution": "1362x1049",
+        "animal": "Chien",
+        "nature": true,
         "luminosité": true
     }
 ]

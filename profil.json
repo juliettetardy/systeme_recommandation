@@ -1,167 +1,172 @@
 {
+    "images": [
+        "99.jpg",
+        "52.jpg",
+        "55.jpg",
+        "96.jpg",
+        "75.jpg",
+        "48.JPG",
+        "54.jpg",
+        "87.jpg",
+        "59.jpg",
+        "63.jpg",
+        "24.jpg",
+        "78.jpeg",
+        "17.jpg",
+        "101.png",
+        "34.jpg",
+        "33.jpg",
+        "3.jpg",
+        "85.JPG",
+        "2.jpg",
+        "53.jpg"
+    ],
     "data": [
         [
-            "LUPO%20ITALIANO%20-%20PALIO%20DI%20CENEDA%202018%2015.png",
-            "Portrait",
-            "701x909",
-            null,
+            "Paysage",
+            "1362x1049",
             "Chien",
+            true,
             true
         ],
         [
-            "Volpino04.jpg",
-            "Paysage",
-            "280x222",
-            null,
-            "Chien",
-            false
-        ],
-        [
-            "Estrela%20Mountain%20Dog%206%20month%20old%20male.jpg",
-            "Paysage",
-            "736x541",
-            null,
-            "Chien",
-            true
-        ],
-        [
-            "Cat%20Sphynx.%20img%20025.jpg",
-            "Paysage",
-            "3677x3000",
-            100,
-            "Chat",
-            false
-        ],
-        [
-            "Kishu.jpg",
-            "Paysage",
-            "240x159",
-            null,
-            "Chien",
-            false
-        ],
-        [
-            "Irsika.jpg",
-            "Portrait",
-            "750x931",
-            400,
-            "Chien",
-            true
-        ],
-        [
-            "Grupp%209%2C%20LHASA%20APSO%2C%20DK%20JV-13%20DK%20V-14%20DK%20V-15%20NO%20UCH%20NO%20V-15%20SE%20UCH%20Chic%20Choix%20Some%20Like%20It%20Chic%20%2824014621720%29.jpg",
             "Paysage",
             "1656x1104",
-            200,
             "Chien",
-            false
+            false,
+            true
         ],
         [
-            "Australian%20Mist.jpg",
             "Portrait",
-            "870x885",
-            null,
+            "682x791",
             "Chat",
+            false,
             false
         ],
         [
-            "Khaomanee%20cat.jpg",
             "Portrait",
-            "3024x4032",
-            100,
+            "190x300",
             "Chat",
-            false
+            false,
+            true
         ],
         [
-            "Engelse%20setter%20pup.JPG",
             "Paysage",
-            "1600x1200",
-            null,
+            "600x402",
             "Chien",
+            true,
             false
         ],
         [
-            "Noorse-boskat%20wikipedia%201.JPG",
             "Portrait",
             "480x640",
-            null,
             "Chat",
+            false,
             false
         ],
         [
-            "%282%29%20Isha%20female%20rajapalayam.jpg",
             "Paysage",
-            "1573x1225",
-            64,
+            "540x500",
             "Chien",
-            false
-        ],
-        [
-            "Ratonero%20valenciano%20dunkel.jpg",
-            "Paysage",
-            "789x597",
-            null,
-            "Chien",
-            false
-        ],
-        [
-            "Bex%20Arabian%20Mau.jpg",
-            "Paysage",
-            "720x480",
-            null,
-            "Chat",
-            false
-        ],
-        [
-            "Hannoverscher%20Schweisshund.jpg",
-            "Paysage",
-            "800x618",
-            null,
-            "Chien",
-            false
-        ],
-        [
-            "AmericanCockerSpaniel%20wb.jpg",
-            "Carr\u00e9",
-            "569x569",
-            null,
-            "Chien",
+            false,
             true
         ],
         [
-            "Male%20Burmilla%20cat.jpeg",
+            "Paysage",
+            "410x363",
+            "Chat",
+            false,
+            true
+        ],
+        [
+            "Portrait",
+            "2091x3136",
+            "Chien",
+            true,
+            false
+        ],
+        [
+            "Paysage",
+            "300x268",
+            "Chien",
+            false,
+            false
+        ],
+        [
+            "Portrait",
+            "1600x2005",
+            "Chien",
+            false,
+            false
+        ],
+        [
             "Paysage",
             "471x423",
-            null,
             "Chat",
+            true,
             true
         ],
         [
-            "Dog%20Hovavart.jpg",
-            "Portrait",
-            "308x388",
-            null,
+            "Carr\u00e9",
+            "600x600",
             "Chien",
-            true
-        ],
-        [
-            "Paintedcats%20Red%20Star%20standing.jpg",
-            "Portrait",
-            "1200x1541",
-            null,
-            "Chat",
+            false,
             false
         ],
         [
-            "Norwegian%20Hygenhound.jpg",
+            "Portrait",
+            "642x701",
+            "Chat",
+            false,
+            false
+        ],
+        [
             "Paysage",
-            "2000x1500",
-            null,
+            "680x508",
             "Chien",
+            true,
+            false
+        ],
+        [
+            "Paysage",
+            "850x808",
+            "Chien",
+            false,
             true
+        ],
+        [
+            "Paysage",
+            "800x600",
+            "Chien",
+            true,
+            false
+        ],
+        [
+            "Portrait",
+            "480x640",
+            "Chat",
+            false,
+            false
+        ],
+        [
+            "Paysage",
+            "2126x1417",
+            "Chat",
+            false,
+            true
+        ],
+        [
+            "Paysage",
+            "800x618",
+            "Chien",
+            false,
+            false
         ]
     ],
-    "result": [
+    "resultats": [
+        "Favorite",
+        "NotFavorite",
+        "Favorite",
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
@@ -170,7 +175,6 @@
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
-        "Favorite",
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
@@ -179,8 +183,6 @@
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
-        "Favorite",
-        "Favorite",
         "NotFavorite"
     ]
 }
