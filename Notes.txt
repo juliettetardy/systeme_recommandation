@@ -1,6 +1,0 @@
-Pour les étiquettes : IA MobileNet (pas lourd pour utiliser sur notre projet)
-Il faut au moins 5 étiquettes
-
-Visualisation des données : 
-Le nombre d'images disponibles pour les différents types : taille de l'image, l'orientation des images, les modèles d'appareils photo, etc.
-utiliser GROUP BY
