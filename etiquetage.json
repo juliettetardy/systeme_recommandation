@@ -2,7 +2,7 @@
     {
         "nom_image": "1.jpg",
         "orientation": "Paysage",
-        "resolution": "1573x1225",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -10,7 +10,7 @@
     {
         "nom_image": "10.jpg",
         "orientation": "Portrait",
-        "resolution": "988x1237",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -18,7 +18,7 @@
     {
         "nom_image": "100.jpg",
         "orientation": "Paysage",
-        "resolution": "1632x1224",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -26,7 +26,7 @@
     {
         "nom_image": "101.png",
         "orientation": "Portrait",
-        "resolution": "642x701",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -34,7 +34,7 @@
     {
         "nom_image": "102.jpg",
         "orientation": "Paysage",
-        "resolution": "3456x2304",
+        "qualité": "haute",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -42,7 +42,7 @@
     {
         "nom_image": "103.jpg",
         "orientation": "Paysage",
-        "resolution": "350x277",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -50,7 +50,7 @@
     {
         "nom_image": "104.jpg",
         "orientation": "Paysage",
-        "resolution": "3648x2736",
+        "qualité": "haute",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -58,7 +58,7 @@
     {
         "nom_image": "105.jpg",
         "orientation": "Paysage",
-        "resolution": "789x597",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -66,7 +66,7 @@
     {
         "nom_image": "106.jpg",
         "orientation": "Portrait",
-        "resolution": "346x549",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -74,7 +74,7 @@
     {
         "nom_image": "107.jpg",
         "orientation": "Portrait",
-        "resolution": "830x1199",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -82,7 +82,7 @@
     {
         "nom_image": "108.jpg",
         "orientation": "Paysage",
-        "resolution": "1160x972",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -90,7 +90,7 @@
     {
         "nom_image": "109.jpg",
         "orientation": "Paysage",
-        "resolution": "1157x900",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": true,
         "luminosité": true
@@ -98,7 +98,7 @@
     {
         "nom_image": "11.jpg",
         "orientation": "Paysage",
-        "resolution": "1268x904",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -106,7 +106,7 @@
     {
         "nom_image": "110.jpg",
         "orientation": "Portrait",
-        "resolution": "982x1000",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -114,7 +114,7 @@
     {
         "nom_image": "111.jpg",
         "orientation": "Portrait",
-        "resolution": "518x640",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -122,7 +122,7 @@
     {
         "nom_image": "112.jpg",
         "orientation": "Paysage",
-        "resolution": "450x306",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -130,7 +130,7 @@
     {
         "nom_image": "113.jpg",
         "orientation": "Paysage",
-        "resolution": "3622x2587",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -138,7 +138,7 @@
     {
         "nom_image": "114.jpg",
         "orientation": "Paysage",
-        "resolution": "2127x1398",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -146,7 +146,7 @@
     {
         "nom_image": "115.jpg",
         "orientation": "Portrait",
-        "resolution": "2005x2796",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -154,7 +154,7 @@
     {
         "nom_image": "116.jpg",
         "orientation": "Paysage",
-        "resolution": "280x222",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -162,7 +162,7 @@
     {
         "nom_image": "12.JPG",
         "orientation": "Paysage",
-        "resolution": "802x798",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -170,7 +170,7 @@
     {
         "nom_image": "13.jpg",
         "orientation": "Carré",
-        "resolution": "569x569",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": true
@@ -178,7 +178,7 @@
     {
         "nom_image": "14.jpg",
         "orientation": "Portrait",
-        "resolution": "382x510",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -186,7 +186,7 @@
     {
         "nom_image": "15.jpg",
         "orientation": "Portrait",
-        "resolution": "870x885",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -194,7 +194,7 @@
     {
         "nom_image": "16.JPG",
         "orientation": "Portrait",
-        "resolution": "245x283",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -202,7 +202,7 @@
     {
         "nom_image": "17.jpg",
         "orientation": "Carré",
-        "resolution": "600x600",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -210,7 +210,7 @@
     {
         "nom_image": "18.JPG",
         "orientation": "Paysage",
-        "resolution": "1017x832",
+        "qualité": "basse",
         "animal": "Unknown",
         "nature": false,
         "luminosité": false
@@ -218,7 +218,7 @@
     {
         "nom_image": "19.jpg",
         "orientation": "Paysage",
-        "resolution": "720x480",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -226,7 +226,7 @@
     {
         "nom_image": "2.jpg",
         "orientation": "Paysage",
-        "resolution": "2126x1417",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -234,7 +234,7 @@
     {
         "nom_image": "20.jpg",
         "orientation": "Paysage",
-        "resolution": "1656x1104",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -242,7 +242,7 @@
     {
         "nom_image": "21.jpg",
         "orientation": "Paysage",
-        "resolution": "1000x696",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": true,
         "luminosité": true
@@ -250,7 +250,7 @@
     {
         "nom_image": "22.jpg",
         "orientation": "Paysage",
-        "resolution": "6000x4000",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -258,7 +258,7 @@
     {
         "nom_image": "23.png",
         "orientation": "Portrait",
-        "resolution": "763x764",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -266,7 +266,7 @@
     {
         "nom_image": "24.jpg",
         "orientation": "Portrait",
-        "resolution": "1600x2005",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -274,7 +274,7 @@
     {
         "nom_image": "25.JPG",
         "orientation": "Paysage",
-        "resolution": "1188x792",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -282,7 +282,7 @@
     {
         "nom_image": "26.jpg",
         "orientation": "Paysage",
-        "resolution": "2228x1988",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -290,7 +290,7 @@
     {
         "nom_image": "27.jpg",
         "orientation": "Paysage",
-        "resolution": "300x278",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -298,7 +298,7 @@
     {
         "nom_image": "28.jpg",
         "orientation": "Paysage",
-        "resolution": "3677x3000",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -306,7 +306,7 @@
     {
         "nom_image": "29.JPG",
         "orientation": "Portrait",
-        "resolution": "1704x2272",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -314,7 +314,7 @@
     {
         "nom_image": "3.jpg",
         "orientation": "Paysage",
-        "resolution": "800x600",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -322,7 +322,7 @@
     {
         "nom_image": "30.jpg",
         "orientation": "Paysage",
-        "resolution": "500x470",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -330,7 +330,7 @@
     {
         "nom_image": "31.jpg",
         "orientation": "Portrait",
-        "resolution": "2312x3479",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": true,
         "luminosité": true
@@ -338,7 +338,7 @@
     {
         "nom_image": "32.jpg",
         "orientation": "Portrait",
-        "resolution": "1984x2588",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -346,7 +346,7 @@
     {
         "nom_image": "33.jpg",
         "orientation": "Paysage",
-        "resolution": "850x808",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -354,7 +354,7 @@
     {
         "nom_image": "34.jpg",
         "orientation": "Paysage",
-        "resolution": "680x508",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -362,7 +362,7 @@
     {
         "nom_image": "35.JPG",
         "orientation": "Portrait",
-        "resolution": "718x755",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -370,7 +370,7 @@
     {
         "nom_image": "36.jpg",
         "orientation": "Paysage",
-        "resolution": "600x427",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -378,7 +378,7 @@
     {
         "nom_image": "37.jpeg",
         "orientation": "Portrait",
-        "resolution": "1363x2048",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": true,
         "luminosité": true
@@ -386,7 +386,7 @@
     {
         "nom_image": "38.jpg",
         "orientation": "Portrait",
-        "resolution": "409x493",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -394,7 +394,7 @@
     {
         "nom_image": "39.jpg",
         "orientation": "Paysage",
-        "resolution": "600x576",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -402,7 +402,7 @@
     {
         "nom_image": "4.jpg",
         "orientation": "Paysage",
-        "resolution": "550x526",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -410,7 +410,7 @@
     {
         "nom_image": "40.jpg",
         "orientation": "Portrait",
-        "resolution": "308x388",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": true
@@ -418,7 +418,7 @@
     {
         "nom_image": "41.jpg",
         "orientation": "Paysage",
-        "resolution": "1024x680",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -426,7 +426,7 @@
     {
         "nom_image": "42.jpg",
         "orientation": "Portrait",
-        "resolution": "332x500",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -434,7 +434,7 @@
     {
         "nom_image": "43.JPG",
         "orientation": "Paysage",
-        "resolution": "1600x1200",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -442,7 +442,7 @@
     {
         "nom_image": "44.jpg",
         "orientation": "Paysage",
-        "resolution": "1538x1126",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -450,15 +450,15 @@
     {
         "nom_image": "45.jpg",
         "orientation": "Paysage",
-        "resolution": "1818x1656",
+        "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
+        "nature": true,
         "luminosité": false
     },
     {
         "nom_image": "46.jpg",
         "orientation": "Paysage",
-        "resolution": "736x541",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -466,7 +466,7 @@
     {
         "nom_image": "47.JPG",
         "orientation": "Paysage",
-        "resolution": "1014x630",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -474,7 +474,7 @@
     {
         "nom_image": "48.JPG",
         "orientation": "Portrait",
-        "resolution": "480x640",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -482,7 +482,7 @@
     {
         "nom_image": "49.jpg",
         "orientation": "Paysage",
-        "resolution": "1280x1011",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -490,7 +490,7 @@
     {
         "nom_image": "5.jpg",
         "orientation": "Portrait",
-        "resolution": "505x666",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -498,7 +498,7 @@
     {
         "nom_image": "50.jpg",
         "orientation": "Paysage",
-        "resolution": "535x431",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": true,
         "luminosité": false
@@ -506,7 +506,7 @@
     {
         "nom_image": "51.jpg",
         "orientation": "Paysage",
-        "resolution": "729x486",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -514,7 +514,7 @@
     {
         "nom_image": "52.jpg",
         "orientation": "Paysage",
-        "resolution": "1656x1104",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -522,7 +522,7 @@
     {
         "nom_image": "53.jpg",
         "orientation": "Paysage",
-        "resolution": "800x618",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -530,7 +530,7 @@
     {
         "nom_image": "54.jpg",
         "orientation": "Paysage",
-        "resolution": "540x500",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -538,7 +538,7 @@
     {
         "nom_image": "55.jpg",
         "orientation": "Portrait",
-        "resolution": "682x791",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -546,7 +546,7 @@
     {
         "nom_image": "56.jpg",
         "orientation": "Portrait",
-        "resolution": "345x360",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -554,7 +554,7 @@
     {
         "nom_image": "57.jpg",
         "orientation": "Portrait",
-        "resolution": "750x931",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": true
@@ -562,7 +562,7 @@
     {
         "nom_image": "58.jpg",
         "orientation": "Paysage",
-        "resolution": "700x417",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -570,7 +570,7 @@
     {
         "nom_image": "59.jpg",
         "orientation": "Portrait",
-        "resolution": "2091x3136",
+        "qualité": "haute",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -578,7 +578,7 @@
     {
         "nom_image": "6.jpg",
         "orientation": "Portrait",
-        "resolution": "872x1024",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -586,7 +586,7 @@
     {
         "nom_image": "60.jpg",
         "orientation": "Paysage",
-        "resolution": "199x182",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -594,7 +594,7 @@
     {
         "nom_image": "61.jpg",
         "orientation": "Paysage",
-        "resolution": "300x292",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -602,7 +602,7 @@
     {
         "nom_image": "62.JPG",
         "orientation": "Paysage",
-        "resolution": "650x465",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -610,7 +610,7 @@
     {
         "nom_image": "63.jpg",
         "orientation": "Paysage",
-        "resolution": "300x268",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -618,7 +618,7 @@
     {
         "nom_image": "64.jpg",
         "orientation": "Portrait",
-        "resolution": "400x533",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -626,7 +626,7 @@
     {
         "nom_image": "65.jpg",
         "orientation": "Paysage",
-        "resolution": "567x425",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -634,7 +634,7 @@
     {
         "nom_image": "66.jpg",
         "orientation": "Portrait",
-        "resolution": "3024x4032",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -642,7 +642,7 @@
     {
         "nom_image": "67.JPG",
         "orientation": "Portrait",
-        "resolution": "3456x5184",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -650,7 +650,7 @@
     {
         "nom_image": "68.jpg",
         "orientation": "Paysage",
-        "resolution": "240x159",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -658,7 +658,7 @@
     {
         "nom_image": "69.jpg",
         "orientation": "Paysage",
-        "resolution": "4992x3540",
+        "qualité": "haute",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -666,7 +666,7 @@
     {
         "nom_image": "7.jpg",
         "orientation": "Carré",
-        "resolution": "1024x1024",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -674,7 +674,7 @@
     {
         "nom_image": "70.jpg",
         "orientation": "Paysage",
-        "resolution": "795x656",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -682,7 +682,7 @@
     {
         "nom_image": "71.jpg",
         "orientation": "Paysage",
-        "resolution": "1218x985",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -690,7 +690,7 @@
     {
         "nom_image": "72.jpg",
         "orientation": "Paysage",
-        "resolution": "600x509",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -698,7 +698,7 @@
     {
         "nom_image": "73.jpg",
         "orientation": "Paysage",
-        "resolution": "500x374",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": true,
         "luminosité": true
@@ -706,7 +706,7 @@
     {
         "nom_image": "74.jpg",
         "orientation": "Paysage",
-        "resolution": "800x558",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -714,7 +714,7 @@
     {
         "nom_image": "75.jpg",
         "orientation": "Paysage",
-        "resolution": "600x402",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -722,7 +722,7 @@
     {
         "nom_image": "76.png",
         "orientation": "Portrait",
-        "resolution": "701x909",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -730,7 +730,7 @@
     {
         "nom_image": "77.jpg",
         "orientation": "Paysage",
-        "resolution": "738x492",
+        "qualité": "basse",
         "animal": "Unknown",
         "nature": true,
         "luminosité": false
@@ -738,7 +738,7 @@
     {
         "nom_image": "78.jpeg",
         "orientation": "Paysage",
-        "resolution": "471x423",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": true,
         "luminosité": true
@@ -746,7 +746,7 @@
     {
         "nom_image": "79.jpg",
         "orientation": "Portrait",
-        "resolution": "205x211",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -754,7 +754,7 @@
     {
         "nom_image": "8.jpg",
         "orientation": "Portrait",
-        "resolution": "699x859",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -762,7 +762,7 @@
     {
         "nom_image": "80.jpg",
         "orientation": "Portrait",
-        "resolution": "702x830",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -770,7 +770,7 @@
     {
         "nom_image": "81.jpg",
         "orientation": "Paysage",
-        "resolution": "412x244",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -778,7 +778,7 @@
     {
         "nom_image": "82.jpg",
         "orientation": "Paysage",
-        "resolution": "2482x2431",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -786,7 +786,7 @@
     {
         "nom_image": "83.JPG",
         "orientation": "Paysage",
-        "resolution": "567x377",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": true,
         "luminosité": false
@@ -794,7 +794,7 @@
     {
         "nom_image": "84.jpg",
         "orientation": "Paysage",
-        "resolution": "2671x2013",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -802,7 +802,7 @@
     {
         "nom_image": "85.JPG",
         "orientation": "Portrait",
-        "resolution": "480x640",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -810,7 +810,7 @@
     {
         "nom_image": "86.jpg",
         "orientation": "Paysage",
-        "resolution": "2000x1500",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": true,
         "luminosité": false
@@ -818,7 +818,7 @@
     {
         "nom_image": "87.jpg",
         "orientation": "Paysage",
-        "resolution": "410x363",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -826,7 +826,7 @@
     {
         "nom_image": "88.jpg",
         "orientation": "Portrait",
-        "resolution": "400x542",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -834,7 +834,7 @@
     {
         "nom_image": "89.jpg",
         "orientation": "Paysage",
-        "resolution": "740x488",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -842,7 +842,7 @@
     {
         "nom_image": "9.jpg",
         "orientation": "Paysage",
-        "resolution": "4304x2852",
+        "qualité": "haute",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -850,7 +850,7 @@
     {
         "nom_image": "90.jpg",
         "orientation": "Paysage",
-        "resolution": "657x580",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -858,7 +858,7 @@
     {
         "nom_image": "91.jpg",
         "orientation": "Paysage",
-        "resolution": "800x642",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -866,7 +866,7 @@
     {
         "nom_image": "92.jpg",
         "orientation": "Portrait",
-        "resolution": "1200x1541",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -874,7 +874,7 @@
     {
         "nom_image": "93.jpg",
         "orientation": "Paysage",
-        "resolution": "1280x877",
+        "qualité": "moyenne",
         "animal": "Chat",
         "nature": false,
         "luminosité": false
@@ -882,7 +882,7 @@
     {
         "nom_image": "94.jpg",
         "orientation": "Paysage",
-        "resolution": "800x600",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": true
@@ -890,7 +890,7 @@
     {
         "nom_image": "95.jpg",
         "orientation": "Paysage",
-        "resolution": "1000x800",
+        "qualité": "basse",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -898,7 +898,7 @@
     {
         "nom_image": "96.jpg",
         "orientation": "Portrait",
-        "resolution": "190x300",
+        "qualité": "basse",
         "animal": "Chat",
         "nature": false,
         "luminosité": true
@@ -906,7 +906,7 @@
     {
         "nom_image": "97.jpg",
         "orientation": "Paysage",
-        "resolution": "1800x1785",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": false,
         "luminosité": false
@@ -914,7 +914,7 @@
     {
         "nom_image": "98.JPG",
         "orientation": "Paysage",
-        "resolution": "1597x1155",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": true,
         "luminosité": true
@@ -922,7 +922,7 @@
     {
         "nom_image": "99.jpg",
         "orientation": "Paysage",
-        "resolution": "1362x1049",
+        "qualité": "moyenne",
         "animal": "Chien",
         "nature": true,
         "luminosité": true
