@@ -4,927 +4,927 @@
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "10.jpg",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "100.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "101.png",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "102.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "103.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "104.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "105.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "106.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "107.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "108.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "109.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "11.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "110.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "111.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "112.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "113.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "114.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "115.jpg",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "116.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "12.JPG",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "13.jpg",
         "orientation": "Carré",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "14.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "15.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "16.JPG",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "17.jpg",
         "orientation": "Carré",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "18.JPG",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Unknown",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "19.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "2.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "20.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "21.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "22.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "23.png",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "24.jpg",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "25.JPG",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "26.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "27.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "28.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "29.JPG",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "3.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "30.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "31.jpg",
         "orientation": "Portrait",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "32.jpg",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "33.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "34.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "35.JPG",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "36.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "37.jpeg",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "38.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "39.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "4.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "40.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "41.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "42.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "43.JPG",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "44.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "45.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "46.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "47.JPG",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "48.JPG",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "49.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "5.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "50.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "51.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "52.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "53.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "54.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "55.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "56.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "57.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "58.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "59.jpg",
         "orientation": "Portrait",
         "qualité": "haute",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "6.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "60.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "61.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "62.JPG",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "63.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "64.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "65.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "66.jpg",
         "orientation": "Portrait",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "67.JPG",
         "orientation": "Portrait",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "68.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "69.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "7.jpg",
         "orientation": "Carré",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "70.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "71.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "72.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "73.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "74.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "75.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "76.png",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "77.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Unknown",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "78.jpeg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "79.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "8.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "80.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "81.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "82.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "83.JPG",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": true,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "84.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "85.JPG",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "86.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": false
+        "nature": "en nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "87.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "88.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "89.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "9.jpg",
         "orientation": "Paysage",
         "qualité": "haute",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "90.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "91.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "92.jpg",
         "orientation": "Portrait",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "93.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "94.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "95.jpg",
         "orientation": "Paysage",
         "qualité": "basse",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "96.jpg",
         "orientation": "Portrait",
         "qualité": "basse",
         "animal": "Chat",
-        "nature": false,
-        "luminosité": true
+        "nature": "pas de nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "97.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": false,
-        "luminosité": false
+        "nature": "pas de nature",
+        "luminosité": "sombre"
     },
     {
         "nom_image": "98.JPG",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     },
     {
         "nom_image": "99.jpg",
         "orientation": "Paysage",
         "qualité": "moyenne",
         "animal": "Chien",
-        "nature": true,
-        "luminosité": true
+        "nature": "en nature",
+        "luminosité": "lumineux"
     }
 ]
