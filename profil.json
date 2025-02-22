@@ -1,174 +1,169 @@
 {
     "images": [
-        "99.jpg",
         "52.jpg",
-        "55.jpg",
-        "96.jpg",
-        "75.jpg",
+        "6.jpg",
+        "46.jpg",
+        "61.jpg",
+        "43.JPG",
+        "7.jpg",
+        "16.JPG",
+        "62.JPG",
+        "28.jpg",
+        "98.JPG",
+        "71.jpg",
+        "8.jpg",
         "48.JPG",
-        "54.jpg",
-        "87.jpg",
-        "59.jpg",
-        "63.jpg",
-        "24.jpg",
-        "78.jpeg",
-        "17.jpg",
-        "101.png",
-        "34.jpg",
-        "33.jpg",
-        "3.jpg",
-        "85.JPG",
-        "2.jpg",
-        "53.jpg"
+        "58.jpg",
+        "104.jpg",
+        "82.jpg",
+        "45.jpg",
+        "15.jpg",
+        "18.JPG",
+        "90.jpg"
     ],
     "data": [
         [
             "Paysage",
-            "1362x1049",
+            "moyenne",
             "Chien",
-            true,
-            true
-        ],
-        [
-            "Paysage",
-            "1656x1104",
-            "Chien",
-            false,
-            true
+            "pas de nature",
+            "lumineux"
         ],
         [
             "Portrait",
-            "682x791",
-            "Chat",
-            false,
-            false
-        ],
-        [
-            "Portrait",
-            "190x300",
-            "Chat",
-            false,
-            true
+            "basse",
+            "Chien",
+            "pas de nature",
+            "lumineux"
         ],
         [
             "Paysage",
-            "600x402",
+            "basse",
             "Chien",
-            true,
-            false
-        ],
-        [
-            "Portrait",
-            "480x640",
-            "Chat",
-            false,
-            false
+            "en nature",
+            "sombre"
         ],
         [
             "Paysage",
-            "540x500",
+            "basse",
             "Chien",
-            false,
-            true
+            "pas de nature",
+            "sombre"
         ],
         [
             "Paysage",
-            "410x363",
-            "Chat",
-            false,
-            true
-        ],
-        [
-            "Portrait",
-            "2091x3136",
+            "moyenne",
             "Chien",
-            true,
-            false
-        ],
-        [
-            "Paysage",
-            "300x268",
-            "Chien",
-            false,
-            false
-        ],
-        [
-            "Portrait",
-            "1600x2005",
-            "Chien",
-            false,
-            false
-        ],
-        [
-            "Paysage",
-            "471x423",
-            "Chat",
-            true,
-            true
+            "pas de nature",
+            "sombre"
         ],
         [
             "Carr\u00e9",
-            "600x600",
+            "moyenne",
             "Chien",
-            false,
-            false
+            "pas de nature",
+            "lumineux"
         ],
         [
             "Portrait",
-            "642x701",
+            "basse",
             "Chat",
-            false,
-            false
+            "pas de nature",
+            "lumineux"
         ],
         [
             "Paysage",
-            "680x508",
-            "Chien",
-            true,
-            false
+            "basse",
+            "Chat",
+            "pas de nature",
+            "lumineux"
         ],
         [
             "Paysage",
-            "850x808",
-            "Chien",
-            false,
-            true
+            "haute",
+            "Chat",
+            "pas de nature",
+            "lumineux"
         ],
         [
             "Paysage",
-            "800x600",
+            "moyenne",
             "Chien",
-            true,
-            false
+            "en nature",
+            "lumineux"
+        ],
+        [
+            "Paysage",
+            "moyenne",
+            "Chat",
+            "pas de nature",
+            "sombre"
         ],
         [
             "Portrait",
-            "480x640",
+            "basse",
             "Chat",
-            false,
-            false
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Portrait",
+            "basse",
+            "Chat",
+            "pas de nature",
+            "sombre"
         ],
         [
             "Paysage",
-            "2126x1417",
-            "Chat",
-            false,
-            true
-        ],
-        [
-            "Paysage",
-            "800x618",
+            "basse",
             "Chien",
-            false,
-            false
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "haute",
+            "Chien",
+            "en nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "moyenne",
+            "Chat",
+            "pas de nature",
+            "lumineux"
+        ],
+        [
+            "Paysage",
+            "moyenne",
+            "Chien",
+            "en nature",
+            "sombre"
+        ],
+        [
+            "Portrait",
+            "basse",
+            "Chat",
+            "pas de nature",
+            "lumineux"
+        ],
+        [
+            "Paysage",
+            "basse",
+            "Unknown",
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "basse",
+            "Chien",
+            "pas de nature",
+            "sombre"
         ]
     ],
     "resultats": [
-        "Favorite",
-        "NotFavorite",
-        "Favorite",
-        "NotFavorite",
-        "NotFavorite",
         "NotFavorite",
         "NotFavorite",
         "Favorite",
@@ -178,11 +173,16 @@
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
+        "Favorite",
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
         "NotFavorite",
+        "Favorite",
         "NotFavorite",
+        "Favorite",
+        "NotFavorite",
+        "Favorite",
         "NotFavorite"
     ]
 }
