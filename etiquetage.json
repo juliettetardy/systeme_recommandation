@@ -12,7 +12,7 @@
         "orientation": "Portrait",
         "qualite": "moyenne",
         "animal": "Chat",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "lumineux"
     },
     {
@@ -36,7 +36,7 @@
         "orientation": "Paysage",
         "qualite": "haute",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -60,7 +60,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -92,7 +92,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chat",
-        "nature": "en nature",
+        "nature": "pas de nature",
         "luminosite": "lumineux"
     },
     {
@@ -132,7 +132,7 @@
         "orientation": "Paysage",
         "qualite": "haute",
         "animal": "Chat",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -140,7 +140,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -169,7 +169,7 @@
     },
     {
         "nom_image": "13.jpg",
-        "orientation": "Carré",
+        "orientation": "Carre",
         "qualite": "basse",
         "animal": "Chien",
         "nature": "en nature",
@@ -180,7 +180,7 @@
         "orientation": "Portrait",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -201,10 +201,10 @@
     },
     {
         "nom_image": "17.jpg",
-        "orientation": "Carré",
+        "orientation": "Carre",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -244,7 +244,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chat",
-        "nature": "en nature",
+        "nature": "pas de nature",
         "luminosite": "lumineux"
     },
     {
@@ -268,7 +268,7 @@
         "orientation": "Portrait",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -306,7 +306,7 @@
     {
         "nom_image": "29.JPG",
         "orientation": "Portrait",
-        "qualite": "moyenne",
+        "qualite": "haute",
         "animal": "Chat",
         "nature": "pas de nature",
         "luminosite": "lumineux"
@@ -372,7 +372,7 @@
         "orientation": "Paysage",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -412,7 +412,7 @@
         "orientation": "Portrait",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "en nature",
+        "nature": "pas de nature",
         "luminosite": "lumineux"
     },
     {
@@ -428,7 +428,7 @@
         "orientation": "Portrait",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -452,7 +452,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -548,7 +548,7 @@
         "orientation": "Portrait",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "lumineux"
     },
     {
@@ -556,7 +556,7 @@
         "orientation": "Portrait",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "en nature",
+        "nature": "pas de nature",
         "luminosite": "lumineux"
     },
     {
@@ -612,7 +612,7 @@
         "orientation": "Paysage",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -652,7 +652,7 @@
         "orientation": "Paysage",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -665,7 +665,7 @@
     },
     {
         "nom_image": "7.jpg",
-        "orientation": "Carré",
+        "orientation": "Carre",
         "qualite": "moyenne",
         "animal": "Chien",
         "nature": "pas de nature",
@@ -692,7 +692,7 @@
         "orientation": "Paysage",
         "qualite": "basse",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "lumineux"
     },
     {
@@ -700,7 +700,7 @@
         "orientation": "Paysage",
         "qualite": "basse",
         "animal": "Chat",
-        "nature": "en nature",
+        "nature": "pas de nature",
         "luminosite": "lumineux"
     },
     {
@@ -708,7 +708,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "lumineux"
     },
     {
@@ -788,7 +788,7 @@
         "orientation": "Paysage",
         "qualite": "basse",
         "animal": "Chat",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -860,7 +860,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -876,7 +876,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chat",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -892,7 +892,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
@@ -908,7 +908,7 @@
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "sombre"
     },
     {
