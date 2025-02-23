@@ -1,94 +1,38 @@
 {
     "images": [
-        "58.jpg",
-        "68.jpg",
-        "23.png",
-        "34.jpg",
-        "12.JPG",
-        "88.jpg",
-        "20.jpg",
-        "81.jpg",
-        "83.JPG",
-        "80.jpg",
+        "99.jpg",
+        "57.jpg",
         "98.JPG",
-        "59.jpg",
-        "112.jpg",
-        "75.jpg",
+        "4.jpg",
+        "17.jpg",
+        "35.JPG",
+        "111.jpg",
+        "45.jpg",
+        "103.jpg",
+        "66.jpg",
         "102.jpg",
-        "44.jpg",
-        "62.JPG",
-        "46.jpg",
-        "105.jpg",
-        "6.jpg"
+        "11.jpg",
+        "20.jpg",
+        "43.JPG",
+        "96.jpg",
+        "116.jpg",
+        "78.jpeg",
+        "60.jpg",
+        "113.jpg",
+        "77.jpg"
     ],
     "data": [
         [
             "Paysage",
-            "basse",
-            "Chien",
-            "pas de nature",
-            "sombre"
-        ],
-        [
-            "Paysage",
-            "basse",
-            "Chien",
-            "pas de nature",
-            "sombre"
-        ],
-        [
-            "Portrait",
             "moyenne",
-            "Chat",
-            "pas de nature",
-            "sombre"
-        ],
-        [
-            "Paysage",
-            "basse",
             "Chien",
             "en nature",
-            "sombre"
-        ],
-        [
-            "Paysage",
-            "moyenne",
-            "Chat",
-            "pas de nature",
-            "sombre"
-        ],
-        [
-            "Portrait",
-            "basse",
-            "Chat",
-            "pas de nature",
-            "sombre"
-        ],
-        [
-            "Paysage",
-            "moyenne",
-            "Chien",
-            "pas de nature",
             "lumineux"
-        ],
-        [
-            "Paysage",
-            "basse",
-            "Chien",
-            "pas de nature",
-            "lumineux"
-        ],
-        [
-            "Paysage",
-            "basse",
-            "Chat",
-            "pas de nature",
-            "sombre"
         ],
         [
             "Portrait",
             "moyenne",
-            "Chat",
+            "Chien",
             "pas de nature",
             "lumineux"
         ],
@@ -100,7 +44,56 @@
             "lumineux"
         ],
         [
+            "Paysage",
+            "basse",
+            "Chien",
+            "pas de nature",
+            "lumineux"
+        ],
+        [
+            "Carre",
+            "moyenne",
+            "Chien",
+            "en nature",
+            "sombre"
+        ],
+        [
             "Portrait",
+            "moyenne",
+            "Chat",
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Portrait",
+            "basse",
+            "Chien",
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "moyenne",
+            "Chien",
+            "en nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "basse",
+            "Chien",
+            "pas de nature",
+            "lumineux"
+        ],
+        [
+            "Portrait",
+            "haute",
+            "Chat",
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
             "haute",
             "Chien",
             "en nature",
@@ -108,22 +101,8 @@
         ],
         [
             "Paysage",
-            "basse",
+            "moyenne",
             "Chat",
-            "pas de nature",
-            "lumineux"
-        ],
-        [
-            "Paysage",
-            "basse",
-            "Chien",
-            "en nature",
-            "sombre"
-        ],
-        [
-            "Paysage",
-            "haute",
-            "Chien",
             "pas de nature",
             "sombre"
         ],
@@ -132,21 +111,7 @@
             "moyenne",
             "Chien",
             "pas de nature",
-            "sombre"
-        ],
-        [
-            "Paysage",
-            "basse",
-            "Chat",
-            "pas de nature",
             "lumineux"
-        ],
-        [
-            "Paysage",
-            "moyenne",
-            "Chien",
-            "en nature",
-            "sombre"
         ],
         [
             "Paysage",
@@ -157,32 +122,67 @@
         ],
         [
             "Portrait",
-            "moyenne",
+            "basse",
+            "Chat",
+            "pas de nature",
+            "lumineux"
+        ],
+        [
+            "Paysage",
+            "basse",
             "Chien",
             "pas de nature",
             "lumineux"
+        ],
+        [
+            "Paysage",
+            "basse",
+            "Chat",
+            "en nature",
+            "lumineux"
+        ],
+        [
+            "Paysage",
+            "basse",
+            "Chien",
+            "pas de nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "haute",
+            "Chat",
+            "en nature",
+            "sombre"
+        ],
+        [
+            "Paysage",
+            "moyenne",
+            "Unknown",
+            "en nature",
+            "sombre"
         ]
     ],
     "resultats": [
-        "NotFavorite",
         "Favorite",
         "NotFavorite",
         "Favorite",
-        "NotFavorite",
-        "NotFavorite",
         "NotFavorite",
         "Favorite",
         "NotFavorite",
         "NotFavorite",
         "Favorite",
-        "Favorite",
+        "NotFavorite",
         "NotFavorite",
         "Favorite",
-        "Favorite",
-        "Favorite",
+        "NotFavorite",
+        "NotFavorite",
+        "NotFavorite",
+        "NotFavorite",
         "NotFavorite",
         "Favorite",
-        "Favorite",
-        "NotFavorite"
+        "NotFavorite",
+        "NotFavorite",
+        "Favorite"
     ]
 }
