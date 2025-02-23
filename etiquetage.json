@@ -11,7 +11,9 @@
         "nom_image": "10.jpg",
         "orientation": "Portrait",
         "qualite": "moyenne",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "en nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "100.jpg",
@@ -33,7 +35,9 @@
         "nom_image": "102.jpg",
         "orientation": "Paysage",
         "qualite": "haute",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "103.jpg",
@@ -55,7 +59,9 @@
         "nom_image": "105.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "106.jpg",
@@ -85,7 +91,9 @@
         "nom_image": "109.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "pas de nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "11.jpg",
@@ -123,13 +131,17 @@
         "nom_image": "113.jpg",
         "orientation": "Paysage",
         "qualite": "haute",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "114.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "115.jpg",
@@ -167,7 +179,9 @@
         "nom_image": "14.jpg",
         "orientation": "Portrait",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "15.jpg",
@@ -189,7 +203,9 @@
         "nom_image": "17.jpg",
         "orientation": "Carre",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "18.JPG",
@@ -227,7 +243,9 @@
         "nom_image": "21.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "pas de nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "22.jpg",
@@ -249,7 +267,9 @@
         "nom_image": "24.jpg",
         "orientation": "Portrait",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "25.JPG",
@@ -286,8 +306,10 @@
     {
         "nom_image": "29.JPG",
         "orientation": "Portrait",
-        "qualite": "moyenne",
-        "animal": "Chat"
+        "qualite": "haute",
+        "animal": "Chat",
+        "nature": "pas de nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "3.jpg",
@@ -349,7 +371,9 @@
         "nom_image": "36.jpg",
         "orientation": "Paysage",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "37.jpeg",
@@ -387,7 +411,9 @@
         "nom_image": "40.jpg",
         "orientation": "Portrait",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "pas de nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "41.jpg",
@@ -401,7 +427,9 @@
         "nom_image": "42.jpg",
         "orientation": "Portrait",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "43.JPG",
@@ -423,7 +451,9 @@
         "nom_image": "45.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "46.jpg",
@@ -517,13 +547,17 @@
         "nom_image": "56.jpg",
         "orientation": "Portrait",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "57.jpg",
         "orientation": "Portrait",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "pas de nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "58.jpg",
@@ -577,7 +611,9 @@
         "nom_image": "63.jpg",
         "orientation": "Paysage",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "64.jpg",
@@ -615,7 +651,9 @@
         "nom_image": "68.jpg",
         "orientation": "Paysage",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "69.jpg",
@@ -653,20 +691,24 @@
         "nom_image": "72.jpg",
         "orientation": "Paysage",
         "qualite": "basse",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "73.jpg",
         "orientation": "Paysage",
         "qualite": "basse",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "pas de nature",
+        "luminosite": "lumineux"
     },
     {
         "nom_image": "74.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
         "animal": "Chien",
-        "nature": "pas de nature",
+        "nature": "en nature",
         "luminosite": "lumineux"
     },
     {
@@ -745,7 +787,9 @@
         "nom_image": "83.JPG",
         "orientation": "Paysage",
         "qualite": "basse",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "84.jpg",
@@ -815,7 +859,9 @@
         "nom_image": "91.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "92.jpg",
@@ -829,7 +875,9 @@
         "nom_image": "93.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chat"
+        "animal": "Chat",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "94.jpg",
@@ -843,7 +891,9 @@
         "nom_image": "95.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "96.jpg",
@@ -857,7 +907,9 @@
         "nom_image": "97.jpg",
         "orientation": "Paysage",
         "qualite": "moyenne",
-        "animal": "Chien"
+        "animal": "Chien",
+        "nature": "en nature",
+        "luminosite": "sombre"
     },
     {
         "nom_image": "98.JPG",
